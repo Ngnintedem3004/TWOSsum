@@ -802,7 +802,7 @@ static int Fibonacci(int n)
     int n1 = 0;
     int n2 = 1;
     Debug.Write("Debug - ");
-    Debug.WriteLine("This is a full line.");
+    Debug.WriteLine("This is a  ffjhh full line.");
     Debug.WriteLine("This is another full line.");
 
     int sum;
