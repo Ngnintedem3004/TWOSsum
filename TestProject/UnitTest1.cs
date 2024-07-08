@@ -13,8 +13,8 @@ namespace TestProject
         [TestMethod]
         public void CalculatorNullTest()
         {
-            var calculator = new Calculator();
-            Assert.IsNotNull(calculator);
+          //  var calculator = new Calculator();
+         //   Assert.IsNotNull(calculator);
             Assert.IsTrue(false); // Will fail the test
         }
     }
